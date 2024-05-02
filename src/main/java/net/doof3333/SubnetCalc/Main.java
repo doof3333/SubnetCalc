@@ -1,6 +1,6 @@
-package net.doof3333.NetworkCalculator;
+package net.doof3333.SubnetCalc;
 
-import net.doof3333.NetworkCalculator.discord.DiscordApp;
+import net.doof3333.SubnetCalc.discord.DiscordApp;
 
 public class Main {
 

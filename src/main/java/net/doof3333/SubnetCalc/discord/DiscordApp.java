@@ -1,6 +1,6 @@
-package net.doof3333.NetworkCalculator.discord;
+package net.doof3333.SubnetCalc.discord;
 
-import net.doof3333.NetworkCalculator.Logger;
+import net.doof3333.SubnetCalc.Logger;
 import net.doof3333.discord.commands.CommandHandler;
 import net.dv8tion.jda.api.JDABuilder;
 import net.dv8tion.jda.api.entities.Activity;

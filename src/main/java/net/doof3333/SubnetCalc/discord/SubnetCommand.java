@@ -1,7 +1,7 @@
-package net.doof3333.NetworkCalculator.discord;
+package net.doof3333.SubnetCalc.discord;
 
-import net.doof3333.NetworkCalculator.NetworkData;
-import net.doof3333.NetworkCalculator.SubnetCalculator;
+import net.doof3333.SubnetCalc.NetworkData;
+import net.doof3333.SubnetCalc.SubnetCalculator;
 import net.doof3333.discord.commands.GuildSlashCommand;
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent;
 import net.dv8tion.jda.api.interactions.commands.OptionMapping;

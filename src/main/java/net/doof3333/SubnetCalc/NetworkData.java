@@ -1,4 +1,4 @@
-package net.doof3333.NetworkCalculator;
+package net.doof3333.SubnetCalc;
 
 import org.jetbrains.annotations.NotNull;
 import org.json.JSONObject;
