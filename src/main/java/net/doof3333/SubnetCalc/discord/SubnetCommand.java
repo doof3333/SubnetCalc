@@ -73,8 +73,8 @@ public class SubnetCommand implements GuildSlashCommand {
             return;
         }
 
-        event.reply("```JSON\n" +
-                        network.toJSON().toString(3) +
+        event.reply("```ANSI\n" +
+                        network.format() +
                         "```")
                 .queue();
     }
